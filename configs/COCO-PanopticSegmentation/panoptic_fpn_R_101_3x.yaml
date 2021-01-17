@@ -1,6 +1,6 @@
 _BASE_: "Base-Panoptic-FPN.yaml"
 MODEL:
-  WEIGHTS: "https://drive.google.com/file/d/1QLpVGbQQAMLnNf-a60KmF_S5OvuT_1oO/view?usp=sharing"
+  WEIGHTS: "https://drive.google.com/file/d/1vG9XEXkIavakNI_mTWdTFmOTUAUUz3Ih/view?usp=sharing"
   RESNETS:
     DEPTH: 101
 SOLVER:
